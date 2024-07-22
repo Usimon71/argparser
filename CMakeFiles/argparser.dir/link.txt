@@ -1,0 +1,2 @@
+/usr/bin/ar qc libargparser.a CMakeFiles/argparser.dir/src/ArgParser.cpp.o CMakeFiles/argparser.dir/src/IntArg.cpp.o CMakeFiles/argparser.dir/src/StringArg.cpp.o CMakeFiles/argparser.dir/src/BoolArg.cpp.o
+/usr/bin/ranlib libargparser.a
